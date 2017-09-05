@@ -30,4 +30,7 @@ if(array_key_exists('PATH_INFO',$_SERVER)){
 //嵌入一个子页面
     include('./views/'.$dir.'/'.$filename.'.html');
 
+
+
+
 ?>
